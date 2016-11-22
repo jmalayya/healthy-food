@@ -1,0 +1,3 @@
+rootProject.name = 'healthy-food'
+include 'healthy-food-service'
+
